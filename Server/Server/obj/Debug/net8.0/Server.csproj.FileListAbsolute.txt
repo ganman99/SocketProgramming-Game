@@ -1,0 +1,56 @@
+C:\Users\berk_\OneDrive\Masaüstü\CNP\HACKHATHON\Server\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berk_\OneDrive\Masaüstü\CNP\HACKHATHON\Server\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+C:\Users\berk_\OneDrive\Masaüstü\CNP\HACKHATHON\Server\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+C:\Users\berk_\OneDrive\Masaüstü\CNP\HACKHATHON\Server\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\berk_\OneDrive\Masaüstü\CNP\HACKHATHON\Server\Server\bin\Debug\net8.0\Server.exe
+C:\Users\berk_\OneDrive\Masaüstü\CNP\HACKHATHON\Server\Server\bin\Debug\net8.0\Server.deps.json
+C:\Users\berk_\OneDrive\Masaüstü\CNP\HACKHATHON\Server\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+C:\Users\berk_\OneDrive\Masaüstü\CNP\HACKHATHON\Server\Server\bin\Debug\net8.0\Server.dll
+C:\Users\berk_\OneDrive\Masaüstü\CNP\HACKHATHON\Server\Server\bin\Debug\net8.0\Server.pdb
+C:\Users\berk_\OneDrive\Masaüstü\CNP\HACKHATHON\Server\Server\obj\Debug\net8.0\Server.dll
+C:\Users\berk_\OneDrive\Masaüstü\CNP\HACKHATHON\Server\Server\obj\Debug\net8.0\refint\Server.dll
+C:\Users\berk_\OneDrive\Masaüstü\CNP\HACKHATHON\Server\Server\obj\Debug\net8.0\Server.pdb
+C:\Users\berk_\OneDrive\Masaüstü\CNP\HACKHATHON\Server\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+C:\Users\berk_\OneDrive\Masaüstü\CNP\HACKHATHON\Server\Server\obj\Debug\net8.0\ref\Server.dll
+C:\Users\berk_\OneDrive\Masaüstü\CNP\210316069_BerkKocamanoğlu\Server\Server\bin\Debug\net8.0\Server.exe
+C:\Users\berk_\OneDrive\Masaüstü\CNP\210316069_BerkKocamanoğlu\Server\Server\bin\Debug\net8.0\Server.deps.json
+C:\Users\berk_\OneDrive\Masaüstü\CNP\210316069_BerkKocamanoğlu\Server\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+C:\Users\berk_\OneDrive\Masaüstü\CNP\210316069_BerkKocamanoğlu\Server\Server\bin\Debug\net8.0\Server.dll
+C:\Users\berk_\OneDrive\Masaüstü\CNP\210316069_BerkKocamanoğlu\Server\Server\bin\Debug\net8.0\Server.pdb
+C:\Users\berk_\OneDrive\Masaüstü\CNP\210316069_BerkKocamanoğlu\Server\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berk_\OneDrive\Masaüstü\CNP\210316069_BerkKocamanoğlu\Server\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+C:\Users\berk_\OneDrive\Masaüstü\CNP\210316069_BerkKocamanoğlu\Server\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+C:\Users\berk_\OneDrive\Masaüstü\CNP\210316069_BerkKocamanoğlu\Server\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\berk_\OneDrive\Masaüstü\CNP\210316069_BerkKocamanoğlu\Server\Server\obj\Debug\net8.0\Server.dll
+C:\Users\berk_\OneDrive\Masaüstü\CNP\210316069_BerkKocamanoğlu\Server\Server\obj\Debug\net8.0\refint\Server.dll
+C:\Users\berk_\OneDrive\Masaüstü\CNP\210316069_BerkKocamanoğlu\Server\Server\obj\Debug\net8.0\Server.pdb
+C:\Users\berk_\OneDrive\Masaüstü\CNP\210316069_BerkKocamanoğlu\Server\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+C:\Users\berk_\OneDrive\Masaüstü\CNP\210316069_BerkKocamanoğlu\Server\Server\obj\Debug\net8.0\ref\Server.dll
+C:\Users\berk_\OneDrive\Masaüstü\CNP\Githuba atılacak\Server\Server\bin\Debug\net8.0\Server.exe
+C:\Users\berk_\OneDrive\Masaüstü\CNP\Githuba atılacak\Server\Server\bin\Debug\net8.0\Server.deps.json
+C:\Users\berk_\OneDrive\Masaüstü\CNP\Githuba atılacak\Server\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+C:\Users\berk_\OneDrive\Masaüstü\CNP\Githuba atılacak\Server\Server\bin\Debug\net8.0\Server.dll
+C:\Users\berk_\OneDrive\Masaüstü\CNP\Githuba atılacak\Server\Server\bin\Debug\net8.0\Server.pdb
+C:\Users\berk_\OneDrive\Masaüstü\CNP\Githuba atılacak\Server\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berk_\OneDrive\Masaüstü\CNP\Githuba atılacak\Server\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+C:\Users\berk_\OneDrive\Masaüstü\CNP\Githuba atılacak\Server\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+C:\Users\berk_\OneDrive\Masaüstü\CNP\Githuba atılacak\Server\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\berk_\OneDrive\Masaüstü\CNP\Githuba atılacak\Server\Server\obj\Debug\net8.0\Server.dll
+C:\Users\berk_\OneDrive\Masaüstü\CNP\Githuba atılacak\Server\Server\obj\Debug\net8.0\refint\Server.dll
+C:\Users\berk_\OneDrive\Masaüstü\CNP\Githuba atılacak\Server\Server\obj\Debug\net8.0\Server.pdb
+C:\Users\berk_\OneDrive\Masaüstü\CNP\Githuba atılacak\Server\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+C:\Users\berk_\OneDrive\Masaüstü\CNP\Githuba atılacak\Server\Server\obj\Debug\net8.0\ref\Server.dll
+C:\Users\berk_\Gitlik şeyler\SocketProgramming-Game\Server\Server\bin\Debug\net8.0\Server.exe
+C:\Users\berk_\Gitlik şeyler\SocketProgramming-Game\Server\Server\bin\Debug\net8.0\Server.deps.json
+C:\Users\berk_\Gitlik şeyler\SocketProgramming-Game\Server\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+C:\Users\berk_\Gitlik şeyler\SocketProgramming-Game\Server\Server\bin\Debug\net8.0\Server.dll
+C:\Users\berk_\Gitlik şeyler\SocketProgramming-Game\Server\Server\bin\Debug\net8.0\Server.pdb
+C:\Users\berk_\Gitlik şeyler\SocketProgramming-Game\Server\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berk_\Gitlik şeyler\SocketProgramming-Game\Server\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+C:\Users\berk_\Gitlik şeyler\SocketProgramming-Game\Server\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+C:\Users\berk_\Gitlik şeyler\SocketProgramming-Game\Server\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\berk_\Gitlik şeyler\SocketProgramming-Game\Server\Server\obj\Debug\net8.0\Server.dll
+C:\Users\berk_\Gitlik şeyler\SocketProgramming-Game\Server\Server\obj\Debug\net8.0\refint\Server.dll
+C:\Users\berk_\Gitlik şeyler\SocketProgramming-Game\Server\Server\obj\Debug\net8.0\Server.pdb
+C:\Users\berk_\Gitlik şeyler\SocketProgramming-Game\Server\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+C:\Users\berk_\Gitlik şeyler\SocketProgramming-Game\Server\Server\obj\Debug\net8.0\ref\Server.dll
